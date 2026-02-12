@@ -1,0 +1,68 @@
+AlexNet
+https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf
+
+GoogLeNet
+https://ieeexplore.ieee.org/document/7298594
+
+ResNet
+https://arxiv.org/abs/1512.03385
+
+ResNeXt
+https://arxiv.org/abs/1611.05431
+
+EfficientNet
+https://arxiv.org/abs/1905.11946
+
+CLIP
+https://arxiv.org/pdf/2103.00020
+
+YOLO (You Only Look Once)
+https://arxiv.org/abs/1506.02640
+
+U-Net
+https://arxiv.org/abs/1505.04597
+
+Wav2Vec
+https://arxiv.org/abs/2006.11477
+
+BERT
+https://arxiv.org/abs/1810.04805
+
+ELMo
+https://arxiv.org/abs/1802.05365
+
+Big Bird
+https://arxiv.org/abs/2007.14062
+
+RWKV
+https://aclanthology.org/2023.findings-emnlp.936/
+
+Mamba
+https://openreview.net/forum?id=tEYskw1VY2#discussion
+
+
+GAN
+https://arxiv.org/abs/1406.2661
+
+Wasserstein GAN
+https://arxiv.org/abs/1701.07875
+
+Beta VAE
+https://openreview.net/forum?id=Sy2fzU9gl
+
+TabPFN
+https://openreview.net/forum?id=cp5PvcI6w8_
+
+Self-Normalizing Neural Networks
+https://proceedings.neurips.cc/paper_files/paper/2017/file/5d44ee6f2c3f71b73125876103c8f6c4-Paper.pdf
+
+Binarized Neural Networks
+https://arxiv.org/abs/1602.02830
+
+XNOR-Net
+https://arxiv.org/abs/1603.05279
+
+ViT: Vision Transformer
+https://arxiv.org/abs/2010.11929
+
+
