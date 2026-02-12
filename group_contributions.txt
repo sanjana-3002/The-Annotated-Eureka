@@ -1,0 +1,12 @@
+CS 577 Project - Group Member ContributionTeam Members:1. Anshul Dani (A20580060)2. Sanjana Waghray (A20576599)================================================================INDIVIDUAL CONTRIBUTIONS================================================================Anshul's Contributions:- Implemented reward_generator.py - Implemented eureka_loop.py with Sanjana- Implemented config.py - Wrote Parts 3-5 of the report (Training, MWE, Discussion)- Baseline experiments and prompt engineeringSanjana's Contributions:- Implemented rl_trainer.py- Implemented utils.py- Ran complete experiments- Wrote Parts 1-2 of the report (Background, Architecture)- Generated all plots and visualisationsJoint Work:- Project planning and paper selection- Code integration and testing- Results analysis- Report assembly and editing================================================================CODE CONTRIBUTIONS BREAKDOWN================================================================+-----------------------+--------------------+-------+---------------------------+
+| File                  | Author             | Lines | Description               |
++-----------------------+--------------------+-------+---------------------------+
+| config.py             | Anshul Dani        | 102   | Configuration             |
+| reward_generator.py   | Anshul Dani        | 212   | LLM reward generation     |
+| rl_trainer.py         | Sanjana Waghray    | 200   | PPO training              |
+| eureka_loop.py        | Both               | 250   | Main Algorithm            |
+| utils.py              | Sanjana Waghray    | 200   | Visualization             |
++-----------------------+--------------------+-------+---------------------------+
+| Total                 | Both               | ~1000 | Complete System           |
++-----------------------+--------------------+-------+---------------------------+
+
